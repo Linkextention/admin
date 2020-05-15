@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://linkextention.github.io/admin/index.html</loc>
+  <lastmod>2020-05-15T09:53:31+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://linkextention.github.io/admin/landingpage.html</loc>
+  <lastmod>2020-05-15T09:53:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://linkextention.github.io/admin/qrcode.html</loc>
+  <lastmod>2020-05-15T09:53:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linkextention.github.io/admin/beats.html</loc>
+  <lastmod>2020-05-15T09:53:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linkextention.github.io/admin/dailyquote.html</loc>
+  <lastmod>2020-05-15T09:53:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linkextention.github.io/admin/embedgames.html</loc>
+  <lastmod>2020-05-15T09:53:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linkextention.github.io/admin/podcasts.html</loc>
+  <lastmod>2020-05-15T09:53:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linkextention.github.io/admin/info.html</loc>
+  <lastmod>2020-05-15T09:53:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
