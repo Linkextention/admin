@@ -118,7 +118,7 @@ p{
 
 .box{
 	float:center;
-	margin-left:600px;
+	margin-left:590px;
 	margin-top:250px;
 	margin-bottom:;
 }
@@ -318,6 +318,7 @@ a:link {
 	
 	.container-1{
 		width:auto;
+		height: 568px;
 		overflow:hidden;
 		display: grid;
 	    grid-template-columns: repeat(4, 1fr);
@@ -327,6 +328,7 @@ a:link {
 	.container-2{
 		width:auto;
 	    overflow:hidden;
+		height: 624px;
 	}
 	
 	.container-4 {
@@ -392,7 +394,7 @@ a:link {
   
   .responsive-img {
   margin-top: 151px;
-  margin-left: 31px;
+  margin-left: 28px;
   width: 320px;
   height: 320px;
 }
