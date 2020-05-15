@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color:#141F40;
+	color:#fff;
+	font-family:'Roboto', sans-serif;
+}
+
+
+/* Global */
+.container{
+	width:100%;
+	margin:auto;
+	overflow:hidden;
+}
+
+.container-1{
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	grid-gap: 10px;
+}
+
+.container-1 > div {
+	height: 210px;
+	background: url('./img/bg1.jpg');
+}
+
+.box{
+	float:center;
+	margin-left:600px;
+	margin-top:250px;
+	margin-bottom:;
+}
+
+.box img{
+	width:17%;
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width:760px) {
+	.container{
+		width:auto;
+		margin:auto;
+	    overflow:hidden;
+	}
+	
+	.box{
+		float:center;
+	    margin-left:150px;
+	    margin-top:251px;
+	}
+	
+	.box img{
+		width:40%;
+	}
+}
